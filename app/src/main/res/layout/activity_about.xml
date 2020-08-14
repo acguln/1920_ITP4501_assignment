@@ -13,6 +13,6 @@
         android:layout_height="wrap_content"
         android:textAlignment="center"
         android:padding="4dp"
-        android:text="Create BY\nCheung King Hung 190001623\nIT114105/1A"
+        android:text="Create BY\nacguln"
         android:textSize="26sp" />
 </LinearLayout>
